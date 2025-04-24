@@ -15,7 +15,7 @@ This project focuses on classifying toxic comments using natural language proces
 - Scikit-learn
 - NLTK / spaCy
 - Matplotlib / Seaborn (for visualization)
-- Jupyter Notebook
+- Jupyter Notebook/ Visual Studio Code
 - HTML5/CSS3
 
 
